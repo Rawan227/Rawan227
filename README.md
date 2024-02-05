@@ -3,14 +3,12 @@
 Hi, I'm Rawan Ahmed, a second year computer engineering student at Cairo University-Faculty of Engineering. I'm passionate about building software and learning new technologies.
 
 My tech stack:
-C/C++
+C++
 JavaScript
 React
-Node.js
 
 My skills:
 Programming
-Software development
 Data structures and algorithms
 Databases
 
