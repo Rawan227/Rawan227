@@ -4,9 +4,9 @@
     </h1>
 </div>
 
-<div style="text-align: center;">
-  <img style="text-align: center;" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" alt="Banner of a developer sitting in front of a desk">
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" alt="Banner of a developer sitting in front of a desk">
+</p>
 
 ## 👨‍💻 About Me
 
